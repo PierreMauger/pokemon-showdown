@@ -80,6 +80,7 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		name: "[Gen 9] VGC",
 		mod: 'gen9',
 		gameType: 'doubles',
+		searchShow: false,
 		bestOfDefault: true,
 		ruleset: ['Flat Rules', '!! Adjust Level = 50', 'Min Source Gen = 9', 'VGC Timer', 'Open Team Sheets', 'Terastal Clause'],
 	},
