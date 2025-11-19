@@ -1803,6 +1803,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 881,
 		gen: 7,
+		isNonstandard: "Past",
 	},
 	electriumz: {
 		name: "Electrium Z",
@@ -2572,6 +2573,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 884,
 		gen: 7,
+		isNonstandard: "Past",
 	},
 	greatball: {
 		name: "Great Ball",
@@ -4157,6 +4159,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 883,
 		gen: 7,
+		isNonstandard: "Past",
 	},
 	moonball: {
 		name: "Moon Ball",
@@ -4864,6 +4867,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 882,
 		gen: 7,
+		isNonstandard: "Past",
 	},
 	psychiumz: {
 		name: "Psychium Z",
