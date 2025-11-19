@@ -40,12 +40,6 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		banlist: ['Uber', 'AG', 'Arena Trap', 'Moody', 'Sand Veil', 'Shadow Tag', 'Snow Cloak', 'King\'s Rock', 'Razor Fang', 'Baton Pass', 'Last Respects'],
 	},
 	{
-		name: "[Gen 9] OU World Cup",
-		mod: 'gen9worldcup',
-		ruleset: ['Standard', 'Terastal Clause', 'Regen Clause = 1'],
-		banlist: ['Uber', 'AG', 'Arena Trap', 'Moody', 'Sand Veil', 'Shadow Tag', 'Snow Cloak', 'King\'s Rock', 'Razor Fang', 'Baton Pass', 'Last Respects'],
-	},
-	{
 		name: "[Gen 9] Ubers",
 		mod: 'gen9',
 		ruleset: ['Standard', 'Terastal Clause'],
@@ -131,14 +125,6 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		restricted: ['Restricted Legendary'],
 	},
 	{
-		name: "[Gen 9] VGC World Cup",
-		mod: 'gen9worldcup',
-		gameType: 'doubles',
-		bestOfDefault: true,
-		ruleset: ['Flat Rules', '!! Adjust Level = 50', 'Min Source Gen = 9', 'VGC Timer', 'Force Open Team Sheets', 'Best of = 3', 'Limit Two Restricted', 'Terastal Clause'],
-		restricted: ['Restricted Legendary'],
-	},
-	{
 		name: "[Gen 9] Doubles Custom Game",
 		mod: 'gen9',
 		gameType: 'doubles',
@@ -147,6 +133,38 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		debug: true,
 		// no restrictions, for serious (other than team preview)
 		ruleset: ['Team Preview', 'Cancel Mod', 'Max Team Size = 24', 'Max Move Count = 24', 'Max Level = 9999', 'Default Level = 100', 'Terastal Clause'],
+	},
+
+	{
+		section: "Cobblemon 1.6",
+	},
+	{
+		name: "[Gen 9] OU 1.6",
+		mod: 'gen9',
+		ruleset: ['Standard', 'Terastal Clause'],
+		banlist: ['Uber', 'AG', 'Arena Trap', 'Moody', 'Sand Veil', 'Shadow Tag', 'Snow Cloak', 'King\'s Rock', 'Razor Fang', 'Baton Pass', 'Last Respects'],
+	},
+	{
+		name: "[Gen 9] OU World Cup 2025",
+		mod: 'gen9worldcup',
+		ruleset: ['Standard', 'Terastal Clause', 'Regen Clause = 1'],
+		banlist: ['Uber', 'AG', 'Arena Trap', 'Moody', 'Sand Veil', 'Shadow Tag', 'Snow Cloak', 'King\'s Rock', 'Razor Fang', 'Baton Pass', 'Last Respects'],
+	},
+	{
+		name: "[Gen 9] VGC 1.6",
+		mod: 'gen9',
+		gameType: 'doubles',
+		bestOfDefault: true,
+		ruleset: ['Flat Rules', '!! Adjust Level = 50', 'Min Source Gen = 9', 'VGC Timer', 'Force Open Team Sheets', 'Best of = 3', 'Limit Two Restricted', 'Terastal Clause'],
+		restricted: ['Restricted Legendary'],
+	},
+	{
+		name: "[Gen 9] VGC World Cup 2025",
+		mod: 'gen9worldcup',
+		gameType: 'doubles',
+		bestOfDefault: true,
+		ruleset: ['Flat Rules', '!! Adjust Level = 50', 'Min Source Gen = 9', 'VGC Timer', 'Force Open Team Sheets', 'Best of = 3', 'Limit Two Restricted', 'Terastal Clause'],
+		restricted: ['Restricted Legendary'],
 	},
 
 	// S/V Doubles
