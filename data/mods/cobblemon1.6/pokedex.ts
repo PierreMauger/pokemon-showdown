@@ -2,6 +2,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	grimeralola: {
 		inherit: true,
 		isNonstandard: "Future",
+		abilities: { 0: "Poison Touch", 1: "Gluttony" },
 	},
 	mukalola: {
 		inherit: true,
