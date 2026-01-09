@@ -685,7 +685,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 558,
 		gen: 5,
-		isNonstandard: "Past",
 	},
 	buginiumz: {
 		name: "Buginium Z",
@@ -1268,7 +1267,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 562,
 		gen: 5,
-		isNonstandard: "Past",
 	},
 	darkiniumz: {
 		name: "Darkinium Z",
@@ -1489,7 +1487,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 561,
 		gen: 5,
-		isNonstandard: "Past",
 	},
 	dragoninite: {
 		name: "Dragoninite",
@@ -1763,7 +1760,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 550,
 		gen: 5,
-		isNonstandard: "Past",
 	},
 	electricmemory: {
 		name: "Electric Memory",
@@ -1803,7 +1799,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 881,
 		gen: 7,
-		isNonstandard: "Past",
 	},
 	electriumz: {
 		name: "Electrium Z",
@@ -1941,7 +1936,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 715,
 		gen: 6,
-		isNonstandard: "Past",
 	},
 	fairymemory: {
 		name: "Fairy Memory",
@@ -2006,7 +2000,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 553,
 		gen: 5,
-		isNonstandard: "Past",
 	},
 	fightingmemory: {
 		name: "Fighting Memory",
@@ -2074,7 +2067,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 548,
 		gen: 5,
-		isNonstandard: "Past",
 	},
 	firememory: {
 		name: "Fire Memory",
@@ -2215,7 +2207,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 556,
 		gen: 5,
-		isNonstandard: "Past",
 	},
 	flyingmemory: {
 		name: "Flying Memory",
@@ -2456,7 +2447,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 560,
 		gen: 5,
-		isNonstandard: "Past",
 	},
 	ghostiumz: {
 		name: "Ghostium Z",
@@ -2521,7 +2511,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 551,
 		gen: 5,
-		isNonstandard: "Past",
 	},
 	grassiumz: {
 		name: "Grassium Z",
@@ -2573,7 +2562,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 884,
 		gen: 7,
-		isNonstandard: "Past",
 	},
 	greatball: {
 		name: "Great Ball",
@@ -2667,7 +2655,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 555,
 		gen: 5,
-		isNonstandard: "Past",
 	},
 	groundiumz: {
 		name: "Groundium Z",
@@ -2906,7 +2893,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 552,
 		gen: 5,
-		isNonstandard: "Past",
 	},
 	icememory: {
 		name: "Ice Memory",
@@ -4159,7 +4145,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 883,
 		gen: 7,
-		isNonstandard: "Past",
 	},
 	moonball: {
 		name: "Moon Ball",
@@ -4616,7 +4601,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 554,
 		gen: 5,
-		isNonstandard: "Past",
 	},
 	poisoniumz: {
 		name: "Poisonium Z",
@@ -4827,7 +4811,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 557,
 		gen: 5,
-		isNonstandard: "Past",
 	},
 	psychicmemory: {
 		name: "Psychic Memory",
@@ -4867,7 +4850,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 882,
 		gen: 7,
-		isNonstandard: "Past",
 	},
 	psychiumz: {
 		name: "Psychium Z",
@@ -5170,7 +5152,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 559,
 		gen: 5,
-		isNonstandard: "Past",
 	},
 	rockincense: {
 		name: "Rock Incense",
@@ -5971,7 +5952,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 563,
 		gen: 5,
-		isNonstandard: "Past",
 	},
 	steeliumz: {
 		name: "Steelium Z",
@@ -7438,7 +7418,6 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		},
 		num: 549,
 		gen: 5,
-		isNonstandard: "Past",
 	},
 	wateriumz: {
 		name: "Waterium Z",
