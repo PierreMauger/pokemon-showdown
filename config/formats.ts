@@ -167,7 +167,19 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		restricted: ['Restricted Legendary'],
 	},
 
-	// S/V Doubles
+	// Tropimon test
+	///////////////////////////////////////////////////////////////////
+	
+	{
+		section: "Tropimon",
+	},
+	{
+		name: "[Gen 9] Cobblemon TMs",
+		mod: 'tropimon',
+		ruleset: ['Standard', 'Terastal Clause'],
+		banlist: ['Uber', 'AG', 'Arena Trap', 'Moody', 'Sand Veil', 'Shadow Tag', 'Snow Cloak', 'King\'s Rock', 'Razor Fang', 'Baton Pass', 'Last Respects'],
+	},
+	// Metagames à la con
 	///////////////////////////////////////////////////////////////////
 
 	{
