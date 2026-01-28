@@ -2292,12 +2292,10 @@ export const FormatsData: import("../sim/dex-species").SpeciesFormatsDataTable =
 		tier: "Illegal",
 	},
 	throh: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		tier: "UU",
 	},
 	sawk: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		tier: "UU",
 	},
 	sewaddle: {
 		tier: "LC",
@@ -2821,12 +2819,10 @@ export const FormatsData: import("../sim/dex-species").SpeciesFormatsDataTable =
 		tier: "UU",
 	},
 	litleo: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		tier: "LC",
 	},
 	pyroar: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		tier: "UU",
 	},
 	flabebe: {
 		tier: "LC",
@@ -2881,20 +2877,16 @@ export const FormatsData: import("../sim/dex-species").SpeciesFormatsDataTable =
 		tier: "Illegal",
 	},
 	spritzee: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		tier: "LC",
 	},
 	aromatisse: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		tier: "UU",
 	},
 	swirlix: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		tier: "LC",
 	},
 	slurpuff: {
-		isNonstandard: "Past",
-		tier: "Illegal",
+		tier: "UU",
 	},
 	inkay: {
 		tier: "LC",
