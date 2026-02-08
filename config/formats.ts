@@ -171,11 +171,11 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 	///////////////////////////////////////////////////////////////////
 	
 	{
-		section: "Tropimon",
+		section: "Testing",
 	},
 	{
-		name: "[Gen 9] Cobblemon TMs",
-		mod: 'tropimon',
+		name: "[Gen 9] Cobblemon with TMs",
+		mod: 'cobblemontms',
 		ruleset: ['Standard', 'Terastal Clause'],
 		banlist: ['Uber', 'AG', 'Arena Trap', 'Moody', 'Sand Veil', 'Shadow Tag', 'Snow Cloak', 'King\'s Rock', 'Razor Fang', 'Baton Pass', 'Last Respects'],
 	},
